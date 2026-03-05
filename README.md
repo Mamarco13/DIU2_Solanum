@@ -65,9 +65,9 @@ Miembros y nombre del equipo:
 ![Método UX](img/Competitive.png) 
 -----
 
-El proyecto seleccionado es Bambi Café and Bar, ubicado en la calle Gonzalo Gallas de Granada. Se sitúa en una zona muy competitiva y referente del ocio juvenil, por lo que resulta fundamental diferenciarse. El objetivo del estudio es analizar cómo los usuarios descubren y eligen este tipo de locales y qué información esperan encontrar en sus páginas web.
-La investigación se centrará principalmente en estudiantes y jóvenes usuarios digitales, que suelen buscar cafeterías a través de Google, redes sociales o recomendaciones. Para comprender sus necesidades realizaremos desk research, análisis de competidores y una revisión de la web actual, identificando posibles problemas de información, navegación y diseño. Con estos datos podremos evaluar la experiencia de usuario y detectar oportunidades de mejora en la presencia digital del local.
-Como equipo, frecuentamos locales orientados a un público joven y, aunque no pertenecemos al mundo barista,  valoramos especialmente aquellos que ofrecen una experiencia original y opciones más allá del café. Además, contamos con experiencia en desarrollo web, aplicaciones móviles y diseño, lo que nos permite proponer soluciones adaptadas a las necesidades digitales de este público.
+  El proyecto seleccionado es Bambi Café and Bar, ubicado en la calle Gonzalo Gallas de Granada. Se sitúa en una zona muy competitiva y referente del ocio juvenil, por lo que resulta fundamental diferenciarse. El objetivo del estudio es analizar cómo los usuarios descubren y eligen este tipo de locales y qué información esperan encontrar en sus páginas web.
+  La investigación se centrará principalmente en estudiantes y jóvenes usuarios digitales, que suelen buscar cafeterías a través de Google, redes sociales o recomendaciones. Para comprender sus necesidades realizaremos desk research, análisis de competidores y una revisión de la web actual, identificando posibles problemas de información, navegación y diseño. Con estos datos podremos evaluar la experiencia de usuario y detectar oportunidades de mejora en la presencia digital del local.
+  Como equipo, frecuentamos locales orientados a un público joven y, aunque no pertenecemos al mundo barista,  valoramos especialmente aquellos que ofrecen una experiencia original y opciones más allá del café. Además, contamos con experiencia en desarrollo web, aplicaciones móviles y diseño, lo que nos permite proponer soluciones adaptadas a las necesidades digitales de este público.
   
 
 
