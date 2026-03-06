@@ -66,7 +66,7 @@ Miembros y nombre del equipo:
 -----
 
 <p align="justify">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;El proyecto seleccionado es **Bambi Café and Bar**, ubicado en la calle Gonzalo Gallas de Granada. Se sitúa en una zona muy competitiva y referente del ocio juvenil, por lo que resulta fundamental diferenciarse. El **objetivo del estudio** es analizar cómo los usuarios descubren y eligen este tipo de locales y qué información esperan encontrar en sus páginas web.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;El proyecto seleccionado es <strong>Bambi Café and Bar</strong>, ubicado en la calle Gonzalo Gallas de Granada. Se sitúa en una zona muy competitiva y referente del ocio juvenil, por lo que resulta fundamental diferenciarse. El **objetivo del estudio** es analizar cómo los usuarios descubren y eligen este tipo de locales y qué información esperan encontrar en sus páginas web.
 </p>
 <p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;La investigación se centrará principalmente en **estudiantes y jóvenes usuarios digitales**, que suelen buscar cafeterías a través de **Google, redes sociales o recomendaciones**. Para comprender sus necesidades realizaremos **desk research**, **análisis de competidores** y la definición de **personas (perfiles de usuario)**, identificando posibles problemas de **información, navegación y diseño**. Con estos datos podremos evaluar la experiencia de usuario y detectar oportunidades de mejora en la presencia digital del local.
