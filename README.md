@@ -69,18 +69,23 @@ Miembros y nombre del equipo:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;El proyecto seleccionado es <strong>Bambi Café and Bar</strong>, ubicado en la calle Gonzalo Gallas de Granada. Se sitúa en una zona muy competitiva y referente del ocio juvenil, por lo que resulta fundamental diferenciarse. El <strong>objetivo del estudio</strong> es analizar cómo los usuarios descubren y eligen este tipo de locales y qué información esperan encontrar en sus páginas web.
 </p>
 <p align="justify">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;La investigación se centrará principalmente en <strong>estudiantes y jóvenes usuarios digitales</strong>, que suelen buscar cafeterías a través de <strong>Google, redes sociales o recomendaciones</strong>. Para comprender sus necesidades realizaremos <strong>desk research</strong>, <strong>análisis de competidores</strong> y la definición de <strong>personas (perfiles de usuario)</strong>, identificando posibles problemas de <strong>información, navegación y diseño</strong>. Con estos datos podremos evaluar la experiencia de usuario y detectar oportunidades de mejora en la presencia digital del local.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;La investigación se centrará principalmente en <strong>estudiantes y jóvenes usuarios digitales</strong>, que suelen buscar cafeterías a través de <strong>Google, redes sociales o recomendaciones</strong>. Para comprender sus necesidades realizaremos <strong>desk research, análisis de competidores</strong> y la definición de <strong>personas (perfiles de usuario)</strong>, identificando posibles problemas de <strong>información, navegación y diseño</strong>. Con estos datos podremos evaluar la experiencia de usuario y detectar oportunidades de mejora en la presencia digital del local.
 </p>
 <p align="justify">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Como equipo, frecuentamos locales orientados a un público joven y, aunque no pertenecemos al mundo barista, valoramos especialmente aquellos que ofrecen una <strong>experiencia original</strong> y <strong>opciones más allá del café</strong>. Además, contamos con experiencia en <strong>desarrollo web, aplicaciones móviles y diseño</strong>, lo que nos permite proponer soluciones adaptadas a las necesidades digitales de este público.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Como equipo, frecuentamos locales orientados a un público joven y, aunque no pertenecemos al mundo barista, valoramos especialmente aquellos que ofrecen una <strong>información, navegación y diseño</strong> y <strong>opciones más allá del café</strong>. Además, contamos con experiencia en <strong>desarrollo web, aplicaciones móviles y diseño</strong>, lo que nos permite proponer soluciones adaptadas a las necesidades digitales de este público.
 </p>
 
 ### 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 
 -----
 
->>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
 
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para el análisis competitivo, examinaremos los que son, bajo nuestro criterio, los puntos más importantes de la web de negocios de este tipo. Realizaremos la comparación de nuestro negocio objetivo con otros dos más, <strong>Mundy`s</strong> y <strong>Coffe Brunch Lina</strong>; negocios de mucho éxito que comparten ubicación con nuestra elección.
+</p>
+
+
+![Analisis Competitivo](P1/AnalisisCompetitivo.png)
 
 ### 1.c Personas
 ![Método UX](img/Persona.png) 
