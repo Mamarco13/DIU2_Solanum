@@ -66,13 +66,13 @@ Miembros y nombre del equipo:
 -----
 
 <p align="justify">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;El proyecto seleccionado es <strong>Bambi Café and Bar</strong>, ubicado en la calle Gonzalo Gallas de Granada. Se sitúa en una zona muy competitiva y referente del ocio juvenil, por lo que resulta fundamental diferenciarse. El **objetivo del estudio** es analizar cómo los usuarios descubren y eligen este tipo de locales y qué información esperan encontrar en sus páginas web.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;El proyecto seleccionado es <strong>Bambi Café and Bar</strong>, ubicado en la calle Gonzalo Gallas de Granada. Se sitúa en una zona muy competitiva y referente del ocio juvenil, por lo que resulta fundamental diferenciarse. El <strong>objetivo del estudio</strong> es analizar cómo los usuarios descubren y eligen este tipo de locales y qué información esperan encontrar en sus páginas web.
 </p>
 <p align="justify">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;La investigación se centrará principalmente en **estudiantes y jóvenes usuarios digitales**, que suelen buscar cafeterías a través de **Google, redes sociales o recomendaciones**. Para comprender sus necesidades realizaremos **desk research**, **análisis de competidores** y la definición de **personas (perfiles de usuario)**, identificando posibles problemas de **información, navegación y diseño**. Con estos datos podremos evaluar la experiencia de usuario y detectar oportunidades de mejora en la presencia digital del local.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;La investigación se centrará principalmente en <strong>estudiantes y jóvenes usuarios digitales</strong>, que suelen buscar cafeterías a través de <strong>Google, redes sociales o recomendaciones</strong>. Para comprender sus necesidades realizaremos <strong>desk research</strong>, <strong>análisis de competidores</strong> y la definición de <strong>personas (perfiles de usuario)</strong>, identificando posibles problemas de <strong>información, navegación y diseño</strong>. Con estos datos podremos evaluar la experiencia de usuario y detectar oportunidades de mejora en la presencia digital del local.
 </p>
 <p align="justify">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Como equipo, frecuentamos locales orientados a un público joven y, aunque no pertenecemos al mundo barista, valoramos especialmente aquellos que ofrecen una **experiencia original** y **opciones más allá del café**. Además, contamos con experiencia en **desarrollo web, aplicaciones móviles y diseño**, lo que nos permite proponer soluciones adaptadas a las necesidades digitales de este público.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Como equipo, frecuentamos locales orientados a un público joven y, aunque no pertenecemos al mundo barista, valoramos especialmente aquellos que ofrecen una <strong>experiencia original</strong> y <strong>opciones más allá del café</strong>. Además, contamos con experiencia en <strong>desarrollo web, aplicaciones móviles y diseño</strong>, lo que nos permite proponer soluciones adaptadas a las necesidades digitales de este público.
 </p>
 
 ### 1.b Competitive Analysis
