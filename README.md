@@ -66,7 +66,7 @@ Miembros y nombre del equipo:
 ![Persona #1. Gustave](P1/Persona1.png)
 
 <p align="justify">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gustave tiene 33 años, es arquitecto y vive en Lyon, donde trabaja en la rehabilitación de edificios antiguos. Es tranquilo, curioso y observador, con un gran interés por la arquitectura, la fotografía urbana y los barrios con identidad propia. Le gusta viajar solo, recorrer ciudades históricas a pie, visitar pequeños museos y descubrir rincones poco turísticos. Utiliza el móvil para orientarse, buscar cafeterías y encontrar lugares interesantes durante sus paseos. Además, desde hace unos años tiene una ligera dificultad visual, por lo que le resultan incómodas las webs o aplicaciones con texto pequeño, poco contraste o mapas difíciles de leer; por eso valora especialmente las interfaces claras, visuales y fáciles de interpretar.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gustave tiene 33 años, es arquitecto y vive en Lyon, donde trabaja en la rehabilitación de edificios antiguos. Es tranquilo, curioso y observador, con un gran interés por la arquitectura, la fotografía urbana y los barrios con identidad propia. Le gusta viajar solo, recorrer ciudades históricas a pie, visitar pequeños museos y descubrir rincones poco turísticos. Actualmente está pasando unos días de vacaciones en Granada y utiliza el móvil para orientarse, buscar cafeterías y encontrar lugares interesantes durante sus paseos. Además, desde hace unos años tiene una ligera dificultad visual, por lo que le resultan incómodas las webs o aplicaciones con texto pequeño, poco contraste o mapas difíciles de leer; por eso valora especialmente las interfaces claras, visuales y fáciles de interpretar.
 </p>
 <br>
 
