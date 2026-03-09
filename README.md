@@ -90,11 +90,18 @@ Miembros y nombre del equipo:
 ### 1.c Personas
 ![Método UX](img/Persona.png) 
 -----
+![Persona #1. Gustave](P1/Persona1.png)
 
-![Persona #2. Alicia](P1/"Persona2.png")
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gustave tiene 33 años, es arquitecto y vive en Lyon, donde trabaja en la rehabilitación de edificios antiguos. Es tranquilo, curioso y observador, con un gran interés por la arquitectura, la fotografía urbana y los barrios con identidad propia. Le gusta viajar solo, recorrer ciudades históricas a pie, visitar pequeños museos y descubrir rincones poco turísticos. Utiliza el móvil para orientarse, buscar cafeterías y encontrar lugares interesantes durante sus paseos. Además, desde hace unos años tiene una ligera dificultad visual, por lo que le resultan incómodas las webs o aplicaciones con texto pequeño, poco contraste o mapas difíciles de leer; por eso valora especialmente las interfaces claras, visuales y fáciles de interpretar.
+</p>
+<br>
 
+![Persona #2. Alicia](P1/Persona2.png)
 
->>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Alicia tiene 20 años y estudia Física en la Universidad de Granada. Es una persona activa, organizada y resolutiva, acostumbrada a gestionar un ritmo de vida intenso entre clases, estudio y trabajos en grupo. Utiliza mucho el móvil para planificar su día y resolver tareas rápidamente. En su tiempo libre le gusta salir con amigos, escuchar música, ver series y hacer algo de deporte. Como es celíaca, necesita encontrar fácilmente opciones de comida sin gluten cuando come fuera, por lo que valora especialmente la información clara y rápida en apps o menús.
+</p>
 
 
 ### 1.d User Journey Map
