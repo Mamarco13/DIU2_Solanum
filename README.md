@@ -1,28 +1,11 @@
 # DIU26
-Prácticas Diseño Interfaces de Usuario (Tema: .... ) 
-
-* [Guiones de prácticas](GuionesPracticas/)
-* [Guía para crea tu Case Study](Guia_CaseStudy.md)
-* Sala de la Fama [DIU Hall of fame](https://github.com/mgea/DIU/tree/master/hall_of_fame) donde se pueden encontrar Case Study destacados de otros años.
-* [Recursos/plantillas en figma](https://www.figma.com/design/BN2IR0q2clOSplfMmalh9K/DIU_Toolkit_Framework--2026-)
-
-
-
-
-Actualizado: 14/01/2026
-
+Prácticas Diseño Interfaces de Usuario (Tema: Cafetería y experiencia Barista) 
 
 
 
 ## Paso 0 My UX-Case Study
 ![Método UX](img/caseStudy.png) 
 -----
-
->>> Este documento es el esqueleto del Case Study que explica el proceso de desarrollo de las 5 prácticas de DIU. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este tipo de texto / comentarios desde la práctica 1 conforme proceda a cada paso
-
-
->>> Hay que Publicar de forma incremental "my Case Study" en Github... Es el momento de dejar este documento para que sea evaluado y calificado como parte de la práctica
->>> Documente bien la cabecera y asegurese que ha resumido los pasos realizados para el diseño de su producto
 
 Grupo: DIU2_Solanum.  Curso: 2025/26 
 
@@ -42,27 +25,17 @@ Miembros y nombre del equipo:
  * :bust_in_silhouette:  Manuel Martínez Cobos     :octocat:     
  * :bust_in_silhouette:  Ana Cascone Hernández     :octocat:
 
->>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
-
 ----- 
 
 <br>
 
 # Proceso de Diseño 
 
-
-
-
-
 <br>
 
 ## Paso 1. UX User & Desk Research & Analisis 
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
-
-### 1.a User Reseach Plan
-![Método UX](img/Competitive.png) 
+![Método UX](img/Competitive.png) 1.a User Reseach Plan
 -----
 
 <p align="justify">
@@ -75,8 +48,8 @@ Miembros y nombre del equipo:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Como equipo, frecuentamos locales orientados a un público joven y, aunque no pertenecemos al mundo barista, valoramos especialmente aquellos que ofrecen una <strong>información, navegación y diseño</strong> y <strong>opciones más allá del café</strong>. Además, contamos con experiencia en <strong>desarrollo web, aplicaciones móviles y diseño</strong>, lo que nos permite proponer soluciones adaptadas a las necesidades digitales de este público.
 </p>
 
-### 1.b Competitive Analysis
-![Método UX](img/Competitive.png) 
+
+![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
 
 
@@ -87,9 +60,9 @@ Miembros y nombre del equipo:
 
 ![Analisis Competitivo](P1/AnalisisCompetitivo.png)
 
-### 1.c Personas
-![Método UX](img/Persona.png) 
+![Método UX](img/Persona.png) 1.c Personas
 -----
+
 ![Persona #1. Gustave](P1/Persona1.png)
 
 <p align="justify">
@@ -104,15 +77,13 @@ Miembros y nombre del equipo:
 </p>
 
 
-### 1.d User Journey Map
-![Método UX](img/JourneyMap.png) 
+![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
 
 >>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
 
 
-### 1.e Usability Review
-![Método UX](img/usabilityReview.png) 
+![Método UX](img/usabilityReview.png) 1.e Usability Review
 ----
 
 >>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
