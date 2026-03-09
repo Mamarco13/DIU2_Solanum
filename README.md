@@ -91,6 +91,9 @@ Miembros y nombre del equipo:
 ![Método UX](img/Persona.png) 
 -----
 
+![Persona #2. Alicia](P1/"Persona2.png")
+
+
 >>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
 
 
