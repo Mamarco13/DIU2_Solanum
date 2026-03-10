@@ -85,17 +85,16 @@ Miembros y nombre del equipo:
 
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
 ----
-
->>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
->>> - Enlace al documento:  (xls/pdf) 
->>> - URL y Valoración numérica obtenida: 
->>> - Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
-
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bambi Café & Bar obtiene <strong>202 puntos de 450 posibles</strong>, dejando claro que su página web <strong>no cumple los requisitos mínimos exigibles</strong> para ser agradable al usuario. Pese a estar claro el funcionamiento de los formularios de reserva y feedback, estos están desordenados y antiguos, falta información importante, las imágenes están mal formateadas y no aportan información y lo que la página aporta al usuario hace replantearse hasta qué punto es rentable mantener el dominio si no hay intención de cambiar el diseño.
 <br>
+</p>
 
+[Ver Usability Review](P1/Usability-review-puntuado.pdf)
 ## Paso 2. UX Design  
 
 >>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
+
 
 ### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 ![Método UX](img/feedback-capture-grid.png) 
