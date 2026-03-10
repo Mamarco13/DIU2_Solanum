@@ -80,8 +80,19 @@ Miembros y nombre del equipo:
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
 
->>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
+Experiencia de Gustave:
+![Persona #1. Gustave. Journey Map](P1/JourneyMap_Persona1(Gustave).png)
 
+Experiencia de Alicia:
+![Persona #2. Alicia. Journey Map](P1/JourneyMap_Persona2(Alicia).png)
+
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Las dos experiencias ocurren principalmente por la <strong>falta de información clara</strong> y <strong>la mala adaptación del servicio a las necesidades de cada usuario</strong>.
+En el caso de Gustave, el problema se encuentra sobre todo en la <strong>información previa</strong>: la web no está en un idioma que entienda, no muestra el menú y no explica correctamente qué tipo de lugar es. Esto hace que llegue con <strong>expectativas equivocadas</strong>. Aunque la comida y el café están bien, la experiencia no encaja con lo que necesitaba.
+En el caso de Alicia, la experiencia se ve afectada por la <strong>falta de rápidez</strong> y de <strong>información sobre alérgenos</strong>. Como celíaca y como estudiante con poco tiempo entre clases, necesita saber rápidamente lo que puede o no comer. Al no encontrar el menú ni información sobre gluten, se frustra y pierde tiempo. Cuando llega al local tampoco recibe suficiente confianza para pedir comida. 
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Este tipo de situaciones son habituales, sobre todo en locales pequeños donde <strong>la información online no está bien pensada para los usuarios</strong>. Muchas veces el <strong>producto es bueno</strong>, pero la experiencia falla porque la web, la información o el servicio no responden bien a lo que las personas necesitan.
+</p>
 
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
 ----
