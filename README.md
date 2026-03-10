@@ -102,6 +102,27 @@ En el caso de Alicia, la experiencia se ve afectada por la <strong>falta de ráp
 </p>
 
 [Ver Usability Review](P1/Usability-review-puntuado.pdf)
+
+![Método UX](img/usabilityReview.png) 1.f Briefing
+----
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;El análisis de la experiencia de usuario en la web de <strong>Bambie Café &amp; Bar</strong> nos ha demostrado que su <strong>presencia digital no responde adecuadamente a las necesidades de su público objetivo</strong>, compuesto principalmente por estudiantes, jóvenes usuarios móviles y visitantes ocasionales. Aunque el local se encuentra en una zona muy competitiva de Granada, su web <strong>no aprovecha el potencial de diferenciación</strong> que debería ofrecer una experiencia digital clara, accesible y orientada a la decisión rápida.
+<br>
+<br>
+A partir del análisis de usuarios, la comparación con competidores y la evaluación de usabilidad, se identifican varios <strong>problemas relevantes</strong>:
+<ul>
+ <li><strong>Ausencia de información esencial</strong> como el menú o los alérgenos</li>
+ <li><strong>Dificultades de comprensión</strong> sobre el tipo de local</li>
+ <li><strong>Diseño visual desactualizado</strong></li>
+ <li><strong>Imágenes poco funcionales</strong> y una <strong>estructura confusa</strong> en formularios y contenidos</li>
+</ul>
+Estas carencias afectan directamente a la experiencia del usuario, especialmente en perfiles que necesitan rapidez, accesibilidad o información concreta antes de visitar el establecimiento.
+<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;En conjunto, el sitio transmite una <strong>imagen poco cuidada</strong> y genera insatisfacción en momentos clave del recorrido del usuario. Podemos confirmar un <strong>nivel de usabilidad bajo</strong>, lo que sugiere la necesidad de un <strong>rediseño centrado en la claridad informativa y la accesibilidad</strong> para mejorar tanto la percepción del negocio como su capacidad de atraer clientes.
+</p>
+
+
 ## Paso 2. UX Design  
 
 >>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
