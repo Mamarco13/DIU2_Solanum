@@ -164,12 +164,22 @@ Estas carencias afectan directamente a la experiencia del usuario, especialmente
 ![Método UX](img/labelling.png) 
 ----
 
->>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
+![Sitemap](P2/Sitemap@1.25x.png)
 
 Término | Significado     
 | ------------- | -------
-  Login  | acceder a plataforma
-
+  Inicio  | Página principal o "Home". Punto de partida.
+  Menú  | Acceso al listado completo de platos y bebidas.
+  Actuaciones de la semana  | Sección de actuaciones en vivo y eventos culturales.
+  Reservar Mesa  | Proceso para asegurar un lugar en el local.
+  Personas  | Número de comensales para la reserva.
+  Ubicación  | Cómo llegar y mapa del establecimiento.
+  Opiniones  | Carrusel de reseñas volcadas desde Google, TripAdvisor, ...
+  Plato destacado  | Plato con más exito en los últimos días.
+  Contacto  | Formulario o vías de comunicación directa.
+  Tomar/Llevar  | Selector para decidir dónde se consumirá el plato.
+  Header  | Cabecera de la página web.
+  Footer  | Pie de página.
 
 ### 2.d Wireframes
 ![Método UX](img/Wireframes.png) 
