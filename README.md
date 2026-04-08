@@ -168,7 +168,7 @@ Estas carencias afectan directamente a la experiencia del usuario, especialmente
 
 Término | Significado     
 | ------------- | -------
-  Inicio  | Página principal o "Home". Punto de partida.
+  Home  | Página principal o inicio. Punto de partida.
   Menú  | Acceso al listado completo de platos y bebidas.
   Actuaciones de la semana  | Sección de actuaciones en vivo y eventos culturales.
   Reservar Mesa  | Proceso para asegurar un lugar en el local.
