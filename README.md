@@ -132,16 +132,58 @@ Estas carencias afectan directamente a la experiencia del usuario, especialmente
 ![Método UX](img/feedback-capture-grid.png) 
 ----
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior. De qué carece la competencia?? Tu diagrama puede ser una figura subida a la carpeta P2/
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! RECUERDA CAMBIAR EL NOMBRE DEL CAFÉ
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hemos realizado un Feedback Capture Grid sobre la página web de Bambi Café & Bar, en el que hemos sintetizado los aspectos más relevantes identificados durante el análisis del paso 1. Este ejercicio nos permite organizar los principales puntos fuertes, debilidades, dudas de los usuarios y oportunidades de mejora, sirviendo como base para replantear el diseño de la plataforma desde un enfoque centrado en el usuario.
+ <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Bambi Café & Bar” cuenta con una ubicación privilegiada, pero presenta una identidad digital débil y poco funcional.
+Nuestra propuesta, “[Insertar nombre del café]”, plantea un rebranding temático espacial (“Deep Space”) junto a una nueva estructura web centrada en la accesibilidad, la toma de decisiones rápida y la diferenciación frente a la competencia. Se prioriza la reserva de platos (para optimizar el tiempo de usuarios como Alicia), la accesibilidad visual (para usuarios como Gustave) y la integración de eventos en directo para fomentar el ocio nocturno. 
+</p>
 
+![Feedback Capture Grid](P2/Feedback_Capture_Grid.png)
 
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-    
->>> Explica el Problema y plantea una hipótesis. Es decir, explica aquí qué 
->>> se plantea como "propuesta de valor" para un nuevo diseño de aplicación propio
+Interesante / relevante
+- Ubicación en zona céntrica y concurrida (ambiente juvenil)
+- Existencia de reservas (aunque limitada)
+- Oferta de café y comida atractiva
+- Posibilidad de eventos en directo
+- Presencia digital (aunque muy deficiente)
+
+Críticas constructivas
+- No hay menú accesible online
+- Falta información sobre alérgenos (especialmente gluten)
+- Diseño web desactualizado y poco intuitivo
+- Mala jerarquía visual → cuesta encontrar información
+- No se explica claramente el concepto del local (¿Café o Bar?)
+- No hay opción de Take-away ni de conocer la concurrencia del establecimiento (tiempos de espera elevados)
+- Falta de accesibilidad (idioma, contraste, legibilidad)
+
+Preguntas / Dudas
+- ¿Qué tipo de café/bar es este exactamente?
+- ¿Qué opciones hay en la carta?
+- ¿Cómo reservo rápido?
+- ¿Hay opciones sin gluten?
+- ¿Cómo puedo poner la web en mi idioma?
+- ¿Este botón de “Reserva” es para la mesa o para la actuación de música?
+- ¿Hay eventos hoy?
+- ¿Dónde está el mapa para llegar?
+
+Nuevas ideas
+- Temática “Deep Space”: identidad visual potente que diferencia al local de la competencia. Llama la atención tanto de jóvenes estudiantes como de gente curiosa (turistas).
+- Menú digital claro con imágenes útiles
+- Sistema de take away online rápido
+- Filtro de “Gravedad cero”: sección específica para comida sin gluten y alérgenos
+- Sección de eventos en directo
+- Sistema de reservas mejorado: se puede reservar tanto la mesa como el plato específico
+- Web accesible: multi idioma y con buena legibilidad
+
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;La web actual no facilita la toma de decisiones ni proporciona información clave, afectando especialmente a usuarios que requieren rapidez, accesibilidad o información específica.
+<br>
+<strong> Propuesta de valor</strong>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Diseñar una experiencia web clara, accesible y temática, que incorpore menú digital con filtros, reservas optimizadas y take away, permitiendo a los usuarios tomar decisiones rápidas y satisfactorias, mejorando la percepción del local y su capacidad de atracción. 
+</p>
 
 
 ### 2.b ScopeCanvas
@@ -153,14 +195,14 @@ Estas carencias afectan directamente a la experiencia del usuario, especialmente
 
 
 
-### 2.b User Flow (task) analysis 
+### 2.c User Flow (task) analysis 
 ![Método UX](img/Sitemap.png) 
 -----
 
 >>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
 
 
-### 2.c IA: Sitemap + Labelling 
+### 2.d IA: Sitemap + Labelling 
 ![Método UX](img/labelling.png) 
 ----
 
@@ -181,7 +223,7 @@ Término | Significado
   Header  | Cabecera de la página web.
   Footer  | Pie de página.
 
-### 2.d Wireframes
+### 2.e Wireframes
 ![Método UX](img/Wireframes.png) 
 -----
 
