@@ -9,7 +9,7 @@ Prácticas Diseño Interfaces de Usuario (Tema: Cafetería y experiencia Barista
 
 Grupo: DIU2_Solanum.  Curso: 2025/26 
 
-Nombre del Proyecto: 
+Nombre del Proyecto: Gravity Brew
 
 >>> Decida el nombre corto de su propuesta en la práctica 2 
 
@@ -128,12 +128,11 @@ Estas carencias afectan directamente a la experiencia del usuario, especialmente
 ![Método UX](img/feedback-capture-grid.png) 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 ----
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! RECUERDA CAMBIAR EL NOMBRE DEL CAFÉ
 <p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hemos realizado un Feedback Capture Grid sobre la página web de Bambi Café & Bar, en el que hemos sintetizado los aspectos más relevantes identificados durante el análisis del paso 1. Este ejercicio nos permite organizar los principales puntos fuertes, debilidades, dudas de los usuarios y oportunidades de mejora, sirviendo como base para replantear el diseño de la plataforma desde un enfoque centrado en el usuario.
  <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Bambi Café & Bar” cuenta con una ubicación privilegiada, pero presenta una identidad digital débil y poco funcional.
-Nuestra propuesta, “[Insertar nombre del café]”, plantea un rebranding temático espacial (“Deep Space”) junto a una nueva estructura web centrada en la accesibilidad, la toma de decisiones rápida y la diferenciación frente a la competencia. Se prioriza la reserva de platos (para optimizar el tiempo de usuarios como Alicia), la accesibilidad visual (para usuarios como Gustave) y la integración de eventos en directo para fomentar el ocio nocturno. 
+Nuestra propuesta, “Gravity Brew”, plantea un rebranding temático espacial (“Deep Space”) junto a una nueva estructura web centrada en la accesibilidad, la toma de decisiones rápida y la diferenciación frente a la competencia. Se prioriza la reserva de platos (para optimizar el tiempo de usuarios como Alicia), la accesibilidad visual (para usuarios como Gustave) y la integración de eventos en directo para fomentar el ocio nocturno. 
 </p>
 
 ![Feedback Capture Grid](P2/Feedback_Capture_Grid.png)
