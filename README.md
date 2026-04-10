@@ -125,11 +125,7 @@ Estas carencias afectan directamente a la experiencia del usuario, especialmente
 
 ## Paso 2. UX Design  
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
-
-### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
-![Método UX](img/feedback-capture-grid.png) 
+![Método UX](img/feedback-capture-grid.png) 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 ----
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! RECUERDA CAMBIAR EL NOMBRE DEL CAFÉ
@@ -186,24 +182,27 @@ Nuevas ideas
 </p>
 
 
-### 2.b ScopeCanvas
-![Método UX](img/ScopeCanvas.png)
+![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
 
->>> Propuesta de valor, pero ahora en vez de un texto es un ScopeCanvas que has subido a P2/ y enlazado desde aqui. Tambien vale una imagen miniatura del recurso.
->>> No olvides que tu propuesta ya tiene un nombre corto y puedes actualizar la cabecera de este archivo
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A partir de los insights obtenidos en la fase de ideación, se ha desarrollado un Scope Canvas que permite alinear las necesidades de los usuarios con los objetivos del negocio, definiendo así la propuesta de valor del proyecto.
+</p>
 
+![ScopeCanvas](P2/ScopeCanvas.png)
 
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;El Scope Canvas nos ha permitido organizar de forma clara las necesidades de los usuarios y los objetivos del negocio, sirviendo como guía para el diseño de la propuesta.
+Gracias a esto, la solución planteada responde mejor a los problemas detectados, ofreciendo una experiencia más clara, accesible y útil.
+</p>
 
-### 2.c User Flow (task) analysis 
-![Método UX](img/Sitemap.png) 
+![Método UX](img/Sitemap.png)  2.c User Flow (task) analysis 
 -----
 
 >>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
 
 
-### 2.d IA: Sitemap + Labelling 
-![Método UX](img/labelling.png) 
+![Método UX](img/labelling.png)  2.d IA: Sitemap + Labelling 
 ----
 
 ![Sitemap](P2/Sitemap@1.25x.png)
@@ -223,8 +222,7 @@ Término | Significado
   Header  | Cabecera de la página web.
   Footer  | Pie de página.
 
-### 2.e Wireframes
-![Método UX](img/Wireframes.png) 
+![Método UX](img/Wireframes.png)  2.e Wireframes
 -----
 
 >>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada 
@@ -232,9 +230,6 @@ Término | Significado
 <br>
 
 ## Paso 3. Mi UX-Case Study (diseño)
-
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
 
 ### 3.a Moodboard
 ![Método UX](img/moodboard.png)
