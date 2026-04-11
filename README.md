@@ -199,7 +199,14 @@ Gracias a esto, la solución planteada responde mejor a los problemas detectados
 -----
 
 >>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
+### Caso 1: Cliente nuevo
+![UserFlow1](P2/Caso1.jpg)
 
+### Caso 2: Cliente habitual
+![UserFlow2](P2/Caso2.jpg)
+
+### Caso 3: Estudiante con poco tiempo
+![UserFlow3](P2/Caso3.jpg)
 
 ![Método UX](img/labelling.png)  2.d IA: Sitemap + Labelling 
 ----
