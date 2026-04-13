@@ -198,7 +198,16 @@ Gracias a esto, la solución planteada responde mejor a los problemas detectados
 ![Método UX](img/Sitemap.png)  2.c User Flow (task) analysis 
 -----
 
->>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
+El **User Map (mapa de usuario)** es una representación estructurada del recorrido completo que realiza un usuario al interactuar con un producto o servicio.
+
+### Características:
+- Describe fases o etapas de la experiencia.
+- Incluye objetivos, acciones y percepciones del usuario.
+- Permite identificar puntos de fricción y oportunidades de mejora.
+
+### Propósito:
+Analizar la experiencia global del usuario desde una perspectiva estratégica.
+
 ### Caso 1: Cliente nuevo
 ![UserFlow1](P2/Caso1.jpg)
 
