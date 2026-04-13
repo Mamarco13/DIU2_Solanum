@@ -137,41 +137,6 @@ Nuestra propuesta, “Gravity Brew”, plantea un rebranding temático espacial 
 
 ![Feedback Capture Grid](P2/Feedback_Capture_Grid.png)
 
-Interesante / relevante
-- Ubicación en zona céntrica y concurrida (ambiente juvenil)
-- Existencia de reservas (aunque limitada)
-- Oferta de café y comida atractiva
-- Posibilidad de eventos en directo
-- Presencia digital (aunque muy deficiente)
-
-Críticas constructivas
-- No hay menú accesible online
-- Falta información sobre alérgenos (especialmente gluten)
-- Diseño web desactualizado y poco intuitivo
-- Mala jerarquía visual → cuesta encontrar información
-- No se explica claramente el concepto del local (¿Café o Bar?)
-- No hay opción de Take-away ni de conocer la concurrencia del establecimiento (tiempos de espera elevados)
-- Falta de accesibilidad (idioma, contraste, legibilidad)
-
-Preguntas / Dudas
-- ¿Qué tipo de café/bar es este exactamente?
-- ¿Qué opciones hay en la carta?
-- ¿Cómo reservo rápido?
-- ¿Hay opciones sin gluten?
-- ¿Cómo puedo poner la web en mi idioma?
-- ¿Este botón de “Reserva” es para la mesa o para la actuación de música?
-- ¿Hay eventos hoy?
-- ¿Dónde está el mapa para llegar?
-
-Nuevas ideas
-- Temática “Deep Space”: identidad visual potente que diferencia al local de la competencia. Llama la atención tanto de jóvenes estudiantes como de gente curiosa (turistas).
-- Menú digital claro con imágenes útiles
-- Sistema de take away online rápido
-- Filtro de “Gravedad cero”: sección específica para comida sin gluten y alérgenos
-- Sección de eventos en directo
-- Sistema de reservas mejorado: se puede reservar tanto la mesa como el plato específico
-- Web accesible: multi idioma y con buena legibilidad
-
 <p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;La web actual no facilita la toma de decisiones ni proporciona información clave, afectando especialmente a usuarios que requieren rapidez, accesibilidad o información específica.
 <br>
