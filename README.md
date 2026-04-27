@@ -205,7 +205,9 @@ Término | Significado
 ![Método UX](img/Wireframes.png)  2.e Wireframes
 -----
 
->>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada 
+![Wireframe](P2/Wireframe_1.png)
+
+![Wireframe](P2/Wireframe_2.png)
 
 <br>
 
