@@ -209,36 +209,40 @@ Término | Significado
 
 ![Wireframe](P2/Wireframe_2.png)
 
+![Método UX](img/usabilityReview.png) 2.f Conclusiones
+---
+
+<p align="justify"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;El proceso de UX Design ha permitido identificar las principales carencias de la web actual y transformarlas en una propuesta centrada en el usuario. A partir del análisis realizado, se detecta la necesidad de mejorar la accesibilidad, la claridad de la información y la rapidez en la toma de decisiones. <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;La propuesta “Gravity Brew” responde a estos puntos mediante un rediseño funcional y una identidad temática diferencial (“Deep Space”), que combina experiencia visual y usabilidad. Gracias a la definición del sitemap, los user flows y los wireframes, se plantea una navegación más clara, accesible y eficiente. <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;En conjunto, la solución mejora la experiencia del usuario y refuerza el posicionamiento del negocio, ofreciendo una propuesta coherente, atractiva y fácil de utilizar. </p>
+
 <br>
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
-### 3.a Moodboard
-![Método UX](img/moodboard.png)
+![Método UX](img/moodboard.png) 3.a Moodboard
 -----
 
->>> Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo. Todos los recursos estarán subidos a la carpeta P3/
->>> Explique aqui la/s herramienta/s utilizada/s y el por qué de la resolución empleada. Reflexione ¿Se puede usar esta imagen como cabecera de Instagram, por ejemplo, o se necesitan otras?
+<strong>Moodboard:</strong>
 
+![Moodboard](P3/Moodboard.png)
 
-### 3.b Landing Page
-![Método UX](img/landing-page.png) 
+<strong>Logo:</strong>
+
+<img src="P3/logo.png" style="width:300px; height:auto;">
+
+![Método UX](img/landing-page.png) 3.b Landing Page
 ----
 
 >>> Plantear el Landing Page del producto. Aplica estilos definidos en el moodboard
 
 
-### 3.c Guidelines
-![Método UX](img/guidelines.png) 
+![Método UX](img/guidelines.png)  3.c Guidelines
 ----
 
 >>> Estudio de Guidelines y explicación de los Patrones IU a usar 
 >>> Es decir, tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
 
 
-### 3.d Mockup
-![Método UX](img/mockup.png) 
+![Método UX](img/mockup.png) 3.d Mockup
 ----
 
 >>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
