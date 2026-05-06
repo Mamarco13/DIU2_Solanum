@@ -11,15 +11,13 @@ Grupo: DIU2_Solanum.  Curso: 2025/26
 
 Nombre del Proyecto: Gravity Brew
 
->>> Decida el nombre corto de su propuesta en la práctica 2 
-
 Descripción: 
 
 >>> Describa la idea de su producto en la práctica 2 
 
 Logotipo: 
 
->>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
+<img src="P3/logo.png" style="width:300px; height:auto;">
 
 Miembros y nombre del equipo:
  * :bust_in_silhouette:  Manuel Martínez Cobos     :octocat:     
@@ -232,7 +230,7 @@ Término | Significado
 ![Método UX](img/landing-page.png) 3.b Landing Page
 ----
 
->>> Plantear el Landing Page del producto. Aplica estilos definidos en el moodboard
+<img src="P3/landing_page.png" style="width:300px; height:auto;">
 
 
 ![Método UX](img/guidelines.png)  3.c Guidelines
