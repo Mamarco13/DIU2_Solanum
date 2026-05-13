@@ -380,8 +380,7 @@ El prototipo prioriza:
 [Ver prototipo](https://www.figma.com/proto/0quuJyWr4WBHMKHotg97Ty/Gravity-Brew---UX-Case-Study?node-id=1-2&t=kOHKnaPQl31zPoHv-1)
 
 <br>
-
-![Método UX](img/briefing.png) 3.e Briefing
+![Método UX](img/usabilityReview.png) 3.e Conclusiones
 ----
 
 <p align="justify">
