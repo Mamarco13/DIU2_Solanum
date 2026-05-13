@@ -236,30 +236,142 @@ Término | Significado
 ![Método UX](img/guidelines.png)  3.c Guidelines
 ----
 
->>> Estudio de Guidelines y explicación de los Patrones IU a usar 
->>> Es decir, tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+
+### Sistema visual y patrones de interfaz
+
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;El diseño de *Gravity Brew* se basa en un sistema visual ligero inspirado en los principios de *Atomic Design*, priorizando consistencia, reutilización de componentes y claridad visual. La propuesta busca transmitir una experiencia inmersiva y acogedora mediante una estética *Deep Space*, combinando tonos oscuros, acentos dorados y fotografía atmosférica.
+</p>
+
+
+#### Sistema de color
+
+La paleta cromática se construye sobre colores oscuros y contrastes cálidos para reforzar la identidad espacial de la marca.
+
+- **Primary:** Azul espacial profundo (#0D1B2A)
+- **Secondary:** Dorado cálido (#D4AF69)
+- **Neutral:** Gris humo y beige suave para fondos secundarios y textos
+- **Feedback:** Tonos claros para estados activos y confirmaciones
+
+Los contrastes fueron revisados para garantizar legibilidad sobre fondos oscuros, especialmente en botones CTA y navegación inferior.
+
+#### Tipografía
+
+La identidad visual de *Gravity Brew* utiliza la tipografía *Space Grotesk* como fuente principal en toda la interfaz. Se seleccionó por su estilo geométrico y contemporáneo, alineado con la estética espacial y tecnológica de la marca.
+
+El uso de una única familia tipográfica permite:
+
+- Mantener coherencia visual entre pantallas
+- Simplificar la jerarquía visual
+- Mejorar la legibilidad en dispositivos móviles
+- Crear una interfaz limpia y moderna
+
+La jerarquía tipográfica se construye mediante variaciones de:
+
+- Tamaño
+- Peso tipográfico
+- Espaciado
+- Contraste cromático
+
+#### Grid y espaciado
+
+El sistema de espaciado utiliza una retícula basada en múltiplos de 8 px, permitiendo mantener alineación visual y escalabilidad responsive mediante *Auto Layout* en Figma.
+
+
+### Patrones IU utilizados
+
+#### Navegación principal
+
+La aplicación utiliza una *Bottom Navigation Bar* persistente con acceso rápido a:
+
+- Home
+- Menú
+- Reservas
+- Eventos
+- Perfil
+
+Este patrón favorece la navegación móvil rápida y reduce la carga cognitiva.
+
+#### Hero Section
+
+La pantalla principal incorpora una *Hero Section* con:
+
+- Imagen atmosférica de fondo
+- Headline emocional
+- CTA principal (“Reservar mesa”)
+- CTA secundario (“Ver menú”)
+
+Este patrón busca captar atención inmediata y reforzar la identidad de marca.
+
+#### Cards reutilizables
+
+Se diseñaron componentes reutilizables tipo *Card* para:
+
+- Productos destacados
+- Eventos
+- Reservas
+- Perfil de usuario
+
+Las cards mantienen consistencia visual mediante bordes redondeados, sombras suaves y jerarquía tipográfica uniforme.
+
+#### Formularios y reservas
+
+La pantalla de reservas utiliza componentes de selección compactos:
+
+- Fecha
+- Hora
+- Número de personas
+
+Se prioriza minimizar pasos y facilitar la toma rápida de decisiones.
+
+#### Scroll y contenido dinámico
+
+Las pantallas de:
+
+- Menú
+- Eventos
+
+implementan *scroll vertical* para permitir explorar contenido extenso sin saturar la interfaz. Este comportamiento mejora la escalabilidad del diseño y la experiencia móvil.
+
+#### Estados e interacción
+
+Se utilizaron variantes de componentes en Figma para representar:
+
+- Botones primarios y secundarios
+- Estados activos de navegación
+- Confirmaciones de reserva
+- Hover y transiciones simuladas mediante herramientas de prototipado de Figma.
+
+Además, se aplicaron principios de diseño responsive utilizando *Auto Layout*, permitiendo adaptar la distribución de componentes y mantener coherencia visual entre pantallas.
+
+<br>
 
 
 ![Método UX](img/mockup.png) 3.d Mockup
 ----
 
 <p align="justify">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;El mockup de *Gravity Brew* consiste en un prototipo interactivo desarrollado en Figma para dispositivos móviles (Iphone 14 y 15 Pro: 393×852 px). La propuesta simula la experiencia real de navegación de una aplicación de cafetería moderna, integrando interacción, jerarquía visual y una identidad temática inspirada en el concepto “Deep Space”.
-El diseño utiliza una estética cinematográfica basada en tonos oscuros, acentos dorados y fotografía atmosférica para reforzar la personalidad de la marca. Además, se implementaron componentes reutilizables, Auto Layout y transiciones mediante *Smart Animate* para simular comportamientos reales de interfaz y navegación.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;El mockup de <i>Gravity Brew</i> consiste en un prototipo interactivo desarrollado en Figma para dispositivos móviles (iPhone 14 y 15 Pro: 393×852 px). La propuesta simula la experiencia real de navegación de una aplicación de cafetería moderna, integrando interacción, jerarquía visual e identidad temática inspirada en el concepto <i>Deep Space</i>.
+El diseño utiliza una estética cinematográfica basada en tonos oscuros, acentos dorados y fotografía atmosférica para reforzar la personalidad de la marca. Además, se implementaron componentes reutilizables, Auto Layout y herramientas de prototipado de Figma para simular comportamientos reales de interfaz y navegación.
+Las pantallas de <i>Menú</i> y <i>Eventos</i> incorporan scroll vertical para facilitar la exploración de contenido dinámico sin comprometer la claridad visual ni la experiencia de usuario.
+El sistema de navegación se apoya en una barra inferior persistente que permite acceder rápidamente a las principales secciones de la aplicación, reforzando la usabilidad y la accesibilidad en dispositivos móviles.
 </p>
 
 Las pantallas desarrolladas incluyen:
+
 - Splash screen animada
 - Home
-- Menú
+- Menú interactivo
 - Reservas
 - Confirmación de reserva
 - Eventos
 - Perfil de usuario
 
 El prototipo prioriza:
+
 - Accesibilidad visual
 - Navegación intuitiva
+- Consistencia visual
 - Toma rápida de decisiones
 - Experiencia inmersiva y coherente
 
@@ -268,6 +380,35 @@ El prototipo prioriza:
 [Ver prototipo](https://www.figma.com/proto/0quuJyWr4WBHMKHotg97Ty/Gravity-Brew---UX-Case-Study?node-id=1-2&t=kOHKnaPQl31zPoHv-1)
 
 <br>
+
+![Método UX](img/briefing.png) 3.e Briefing
+----
+
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;El proyecto *Gravity Brew* surge como una propuesta de diseño UX/UI para una cafetería moderna orientada a jóvenes adultos, estudiantes y profesionales creativos que buscan una experiencia acogedora y diferencial alrededor del café de especialidad.
+La identidad visual se inspira en el concepto *Deep Space*, combinando referencias astronómicas, iluminación cálida y una estética cinematográfica para transmitir sensación de calma, desconexión y exploración. El objetivo principal fue diseñar una experiencia digital inmersiva que reforzara tanto la personalidad de marca como la facilidad de uso de la aplicación.
+</p>
+
+Durante el proceso se trabajó siguiendo distintas fases de diseño:
+
+- Creación de moodboard e identidad visual
+- Definición de paleta cromática y tipografía
+- Diseño de componentes reutilizables
+- Implementación de patrones de interfaz basados en Atomic Design
+- Desarrollo de prototipo interactivo en Figma
+
+Para la elaboración del proyecto se utilizaron herramientas como:
+
+- **Figma** para prototipado y diseño de interfaz
+- **Animaciones e interacción:** se utilizaron las herramientas de prototipado de Figma para simular navegación, transiciones entre pantallas e interacciones de usuario.
+- **Google Fonts** para selección tipográfica
+- **Lucide Icons** para iconografía
+- Recursos visuales e inspiración asistidos mediante IA para generación de imágenes conceptuales y exploración estética
+
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Uno de los principales objetivos fue mantener coherencia visual y simplicidad estructural mediante un sistema ligero de componentes reutilizables. Esto permitió agilizar el proceso de diseño y mantener consistencia entre todas las pantallas desarrolladas.
+Como conclusiones principales, el proyecto demuestra cómo una identidad visual sólida y un sistema de diseño modular pueden mejorar significativamente la experiencia de usuario. Además, el uso de herramientas apoyadas en IA permitió acelerar fases de inspiración visual y exploración creativa, facilitando iteraciones rápidas durante el proceso de diseño.
+</p>
 
 ## Paso 4. Pruebas de Evaluación 
 
