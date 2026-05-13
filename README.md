@@ -242,9 +242,30 @@ Término | Significado
 
 ![Método UX](img/mockup.png) 3.d Mockup
 ----
+## 3.d Mockup
 
->>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
+El mockup de *Gravity Brew* consiste en un prototipo interactivo de alta fidelidad desarrollado en Figma para dispositivos móviles (393×852 px). La propuesta simula la experiencia real de navegación de una aplicación de cafetería moderna, integrando interacción, jerarquía visual y una identidad temática inspirada en el concepto “Deep Space”.
 
+El diseño utiliza una estética cinematográfica basada en tonos oscuros, acentos dorados y fotografía atmosférica para reforzar la personalidad de la marca. Además, se implementaron componentes reutilizables, Auto Layout y transiciones mediante *Smart Animate* para simular comportamientos reales de interfaz y navegación.
+
+Las pantallas desarrolladas incluyen:
+- Splash screen animada
+- Home
+- Menú interactivo
+- Reservas
+- Confirmación de reserva
+- Eventos
+- Perfil de usuario
+
+El prototipo prioriza:
+- Accesibilidad visual
+- Navegación intuitiva
+- Toma rápida de decisiones
+- Experiencia inmersiva y coherente
+
+### Prototipo interactivo
+
+[Ver prototipo](https://www.figma.com/proto/0quuJyWr4WBHMKHotg97Ty/Gravity-Brew---UX-Case-Study?node-id=1-2&t=kOHKnaPQl31zPoHv-1)
 
 <br>
 
