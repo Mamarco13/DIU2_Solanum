@@ -491,6 +491,8 @@ En la parte visual, el diseño de Figma se ha llevado a CSS con una identidad mu
 
 La parte funcional también se ha conectado con datos reales de la interfaz. Los productos y eventos no están “pintados a mano” dentro del JSX, sino que salen de estructuras de datos en src/src/data/menu.js y src/src/data/events.js. Eso permite que el menú se filtre por búsqueda y alérgenos, que las reservas sumen platos y calculen total, y que la pantalla de confirmación reutilice la información introducida por el usuario. Todo eso convierte el diseño estático de Figma en una experiencia interactiva, pero manteniendo la composición visual original.
 
+Se puede acceder al código en la carpeta P5/dev/gravity-brew
+
 
 > [!NOTE]
 > Las imágenes de logo, diseño, comidas y eventos han sido creadas mediante el uso de Inteligencia Artificial

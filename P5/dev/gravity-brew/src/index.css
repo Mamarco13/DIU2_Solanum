@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Space+Grotesk:wght@300;400;600&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+  --gold: #d7a665;
+  --gold-soft: #f2c98f;
+  --cream: #f7e6c7;
+  --muted: rgba(255, 226, 175, 0.65);
+  --panel: rgba(12, 18, 28, 0.7);
+  --panel-strong: rgba(12, 18, 28, 0.9);
+  --ink: #04070f;
+  --scroll-progress: 0;
+  --scroll-progress-inv: 1;
+  --splash-shift: 0px;
+  --home-shift: 28px;
+  --planet-shift: 0px;
+  --splash-blur: 0px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: 'Space Grotesk', sans-serif;
+  background-color: var(--ink);
+  color: var(--gold-soft);
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
+}
