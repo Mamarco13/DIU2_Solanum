@@ -485,9 +485,15 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 ### 5.a Exportación a HTML/React
 ![Método UX](img/usabilityReview.png) 
 ----
+El paso de Figma a React en esta app no se ha hecho como una copia literal de pantallas, sino como una traducción de la maqueta a un flujo navegable y modular. La idea base ha sido convertir cada frame importante de Figma en una sección React y usar el estado para simular el recorrido completo del usuario: splash, home, explore, reserva, confirmación, eventos y menú. Ese flujo está concentrado en src/App.jsx, donde se controla qué pantalla se renderiza en cada momento. Se ha decidido prescindir del perfil de usuario para hacer menos tediosa la experiencia en la app.
 
->>> Breve descripción de esta tarea. Las evidencias de este paso quedan subidas a P5/
+En la parte visual, el diseño de Figma se ha llevado a CSS con una identidad muy marcada: fondo oscuro, acentos dorados, tipografía elegante y jerarquía dandole un ambiente espacial. Esa traducción vive sobre todo en src/index.css, donde se definen las variables de color y las fuentes, y en src/App.css, src/App.css, src/App.css, src/App.css y src/App.css, donde cada pantalla tiene su propio bloque de estilos. En vez de depender de componentes genéricos, se han recreado patrones de interfaz muy concretos de la maqueta, como el hero con imagen de fondo, los botones redondeados, la tarjeta de recomendados, la barra inferior y las cards de eventos.
 
+La parte funcional también se ha conectado con datos reales de la interfaz. Los productos y eventos no están “pintados a mano” dentro del JSX, sino que salen de estructuras de datos en src/src/data/menu.js y src/src/data/events.js. Eso permite que el menú se filtre por búsqueda y alérgenos, que las reservas sumen platos y calculen total, y que la pantalla de confirmación reutilice la información introducida por el usuario. Todo eso convierte el diseño estático de Figma en una experiencia interactiva, pero manteniendo la composición visual original.
+
+
+> [!NOTE]
+> Las imágenes de logo, diseño, comidas y eventos han sido creadas mediante el uso de Inteligencia Artificial
 
 ### 5.b Documentación con Storybook
 ![Método UX](img/usabilityReview.png)
