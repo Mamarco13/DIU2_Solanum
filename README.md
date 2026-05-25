@@ -572,14 +572,69 @@ El Caso B, aunque también está muy bien diseñado, cuenta con algunas fallas i
 ![Método UX](img/eye-tracking.png)
 ----
 
->>> Indica cómo se diseña el experimento y se reclutan los usuarios. Explica la herramienta / uso de gazerecorder.com u otra similar. Aplíquese únicamente al caso B.
+Para complementar la evaluación de usabilidad del Caso B (Remake Champions Burger), se realizó un experimento de Eye Tracking utilizando la herramienta Gazemapping/WebGazer.js.
+El objetivo principal del experimento fue identificar las zonas de mayor atención visual de los usuarios, detectar posibles problemas de navegación y comprobar si la interfaz guiaba correctamente la interacción durante las tareas principales.
 
+#### Diseño del experimento
 
-![experimento](img/experimentoET.png)  
->>> Cambiar esta img por una de vuestro experimento. El recurso deberá estar subido a la carpeta P4/  
+Se realizaron pruebas con varios usuarios utilizando un entorno controlado y siguiendo una metodología moderada de observación.
 
->>> gazerecorder en versión de pruebas puede estar limitada a 3 usuarios para generar mapa de calor (crédito > 0 para que funcione) 
+Cada participante realizó las siguientes tareas:
 
+- Explorar la página principal.
+- Buscar información relacionada con reservas.
+- Navegar entre distintas secciones de la interfaz.
+- Identificar elementos relevantes relacionados con productos y promociones.
+
+Antes de comenzar las pruebas, se realizó un proceso de calibración ocular mediante webcam utilizando puntos de referencia distribuidos por la pantalla.
+
+#### Herramienta utilizada
+
+La herramienta utilizada fue Gazemapping, basada en WebGazer.js, que permite registrar:
+- puntos de fijación visual (gaze points),
+- clics del usuario,
+- y generar mapas de calor acumulativos (heatmaps).
+
+Los datos obtenidos fueron procesados posteriormente mediante el módulo de visualización para generar los heatmaps finales.
+
+#### Resultados obtenidos
+
+A partir de los heatmaps obtenidos durante las pruebas de Eye Tracking, se pueden extraer varias conclusiones relevantes sobre el comportamiento de los usuarios en el Caso B (Remake Champions Burger).
+
+En la página principal, la atención visual se concentra principalmente en:
+- la imagen principal de la hamburguesa,
+- los botones de llamada a la acción (“Pedir ahora” y “Ver carta”),
+- y las zonas con mayor contraste visual.
+
+Esto indica que la jerarquía visual inicial resulta efectiva y consigue dirigir rápidamente la mirada del usuario hacia los elementos más importantes.
+
+En las pantallas relacionadas con la carta y selección de productos, los usuarios focalizan su atención sobre:
+- imágenes de los productos,
+- precio,
+- y botones de compra (“Pídela”).
+
+Sin embargo, también se aprecia una dispersión considerable de la mirada en algunas zonas secundarias de la interfaz, especialmente en elementos decorativos o áreas vacías, lo que puede indicar cierta sobrecarga visual.
+
+En el flujo de reserva, los usuarios centran principalmente su atención en:
+- el mapa interactivo,
+- las mesas disponibles,
+- y el botón de reserva.
+
+Aun así, algunos patrones muestran dudas durante la navegación y exploración de opciones, especialmente en las zonas de filtros y selección de asientos.
+
+Finalmente, en la pantalla de foodtrucks y filtros, se observa que los usuarios dedican bastante tiempo a interpretar la organización de la información y los paneles laterales, lo que confirma algunas dificultades de comprensión detectadas durante las pruebas de usabilidad.
+
+En general, los heatmaps validan que el diseño visual resulta atractivo y llamativo, pero también reflejan ciertos problemas de consistencia y organización de la información que pueden afectar negativamente a la experiencia de usuarios menos experimentados.
+
+#### Heatmaps obtenidos
+
+![Heatmap Inicio](P4/heatmap_inicio.png)
+
+![Heatmap Carta](P4/heatmap_carta.png)
+
+![Heatmap Reserva](P4/heatmap_reserva.png)
+
+![Heatmap Foodtruck](P4/heatmap_foodtruck.png)
 
 ### 4.f Usability Report de B
 ![Método UX](img/usability-report.png) 
