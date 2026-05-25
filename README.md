@@ -474,17 +474,99 @@ El objetivo de hacer esto es doble:
 ![Método UX](img/Survey.png) 
 ----
 
->>> Como uno de los test para la prueba A/B testing, usaremos el **Cuestionario SUS** que permite valorar la satisfacción de cada usuario con el diseño utilizado (casos A o B). Para calcular la valoración numérica y la etiqueta linguistica resultante usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx). Previamente conozca en qué consiste la escala SUS y cómo se interpretan sus resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
->>> Adjuntar en la carpeta P4/ el excel resultante y describa aquí la valoración personal de los resultados 
+#### AM01 (Caso A)
+
+|      | PREGUNTAS                                                    | 1    | 2    | 3    | 4    | 5    |
+| ---- | ------------------------------------------------------------ | ---- | ---- | ---- | ---- | ---- |
+| 1    | Creo que me gustará visitar con frecuencia este website      |      |      |      |   X   |      |
+| 2    | Encontré el website innecesariamente complejo                |   X   |      |      |      |      |
+| 3    | Pensé que era fácil utilizar este website                    |      |      |      |      |   X   |
+| 4    | Creo que necesitaría del apoyo de un experto para recorrer el website |   X   |      |      |      |      |
+| 5    | Encontré las funciones del website bastante bien integradas  |      |      |      |      |   X  |
+| 6    | Pensé que había demasiada inconsistencia en el website       |   X   |      |      |      |      |
+| 7    | Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website |      |      |      |      |  X  |
+| 8    | Encontré el website muy grande al recorrerlo                 |      |   X   |      |      |      |
+| 9    | Me sentí muy confiado en el manejo del website               |      |      |      |      |   X   |
+| 10   | Necesito aprender muchas cosas antes de manejarse en el website |   X   |      |      |      |      |
+
+#### PA01 (Caso A)
+
+|      | PREGUNTAS                                                    | 1    | 2    | 3    | 4    | 5    |
+| ---- | ------------------------------------------------------------ | ---- | ---- | ---- | ---- | ---- |
+| 1    | Creo que me gustará visitar con frecuencia este website      |      |      |      |   X   |      |
+| 2    | Encontré el website innecesariamente complejo                |      |   X   |      |      |      |
+| 3    | Pensé que era fácil utilizar este website                    |      |      |      |   X   |      |
+| 4    | Creo que necesitaría del apoyo de un experto para recorrer el website |      |   X   |      |      |      |
+| 5    | Encontré las funciones del website bastante bien integradas  |      |      |      |      |   X   |
+| 6    | Pensé que había demasiada inconsistencia en el website       |   X   |      |      |      |      |
+| 7    | Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website |      |      |   X   |      |      |
+| 8    | Encontré el website muy grande al recorrerlo                 |      |   X   |      |      |      |
+| 9    | Me sentí muy confiado en el manejo del website               |      |      |      |   X   |      |
+| 10   | Necesito aprender muchas cosas antes de manejarse en el website |      |   X   |      |      |      |
+
+
+#### AM02 (Caso B)
+
+|      | PREGUNTAS                                                    | 1    | 2    | 3    | 4    | 5    |
+| ---- | ------------------------------------------------------------ | ---- | ---- | ---- | ---- | ---- |
+| 1    | Creo que me gustará visitar con frecuencia este website      |      |      |      |   X   |      |
+| 2    | Encontré el website innecesariamente complejo                |   X   |      |      |      |      |
+| 3    | Pensé que era fácil utilizar este website                    |      |      |   X   |      |      |
+| 4    | Creo que necesitaría del apoyo de un experto para recorrer el website |      |   X   |      |      |      |
+| 5    | Encontré las funciones del website bastante bien integradas  |      |   X   |      |      |      |
+| 6    | Pensé que había demasiada inconsistencia en el website       |      |      |      |   X   |      |
+| 7    | Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website |      |   X   |      |      |      |
+| 8    | Encontré el website muy grande al recorrerlo                 |   X   |      |      |      |      |
+| 9    | Me sentí muy confiado en el manejo del website               |      |      |   X   |      |      |
+| 10   | Necesito aprender muchas cosas antes de manejarse en el website |      |      |      |   X   |      |
+
+#### MA01 (Caso B)
+
+|      | PREGUNTAS                                                    | 1    | 2    | 3    | 4    | 5    |
+| ---- | ------------------------------------------------------------ | ---- | ---- | ---- | ---- | ---- |
+| 1    | Creo que me gustará visitar con frecuencia este website      |   X   |      |      |      |      |
+| 2    | Encontré el website innecesariamente complejo                |      |      |      |   X   |      |
+| 3    | Pensé que era fácil utilizar este website                    |   X   |      |      |      |      |
+| 4    | Creo que necesitaría del apoyo de un experto para recorrer el website |      |      |      |   X   |      |
+| 5    | Encontré las funciones del website bastante bien integradas  |      |   X   |      |      |      |
+| 6    | Pensé que había demasiada inconsistencia en el website       |      |      |      |      |   X   |
+| 7    | Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website |      |   X   |      |      |      |
+| 8    | Encontré el website muy grande al recorrerlo                 |      |      |      |      |   X   |
+| 9    | Me sentí muy confiado en el manejo del website               |   X   |      |      |      |      |
+| 10   | Necesito aprender muchas cosas antes de manejarse en el website |      |      |      |      |    X  |
 
 
 ### 4.d A/B Testing
 ![Método UX](img/ABtesting.png) 
 -----
 
->>> Los resultados de un A/B testing con 3 pruebas y 2 casos o alternativas daría como resultado una tabla de 3 filas y 2 columnas, además de un resultado agregado global. Especifique con claridad el resultado: qué caso es más usable, A o B?
+> [!NOTE]
+> No hemos encontrado el proyecto de Figma del Caso B, por lo que hemos optado por "simular" la experiencia de clicks en las fotos
+
+**Caso A – Gravity Brew**
+
+| Tarea | % Éxito | Tiempo medio | Clics medios |
+| :--- | :---: | :---: | :---: |
+| Onboarding | 100 % | 4.8 s | 1 |
+| Reservar una mesa | 100 % | 16.4 s | 5.5 |
+| Gestión de impedimentos | 100 % | 13.1 s | 3 |
+| **Media general** | **100 %** | **11.43 s** | **3,17** |
+
+**Caso B – Remake Champions Burger**
+
+| Tarea | % Éxito | Tiempo medio | Clics medios |
+| :--- | :---: | :---: | :---: |
+| Onboarding | 100 % | 22.5 s | 0 |
+| Reservar una mesa | 75 % | 26.5 s | 6.8 |
+| Gestión de impedimentos | 100 % | 30 s | 3 |
+| **Media general** | **91.7 %** | **26.3 s** | **3,3** |
+
+#### Conclusión del A/B Testing:
+Tras realizar el análisis, se determina que el **Caso A. Gravity Brew** tiene un mejor diseño. 
+
+El Caso A logra un éxito total en las tareas propuestas, y resulta más autoguiado y user-friendly con los usuarios de una mayor edad y costumbre tecnológica menor. A parte, cuenta con una imagen de marca que le permite ser reconocible como producto desde el primer vistazo.
+
+El Caso B, aunque también está muy bien diseñado, cuenta con algunas fallas importantes como la indefinición entre local/competición entre locales y resulta poco amigable con la gente poco acostumbrada en ese concepto (camino muy confuso hasta la reserva de mesa por ejemplo). Aunque su mayor defecto es la inconsistencia, que penaliza mucho a la hora de navegar por la app, la carencia de header en determinadas pantallas facilita el perderse.
 
 ### 4.e Aplicación del método Eye Tracking 
 ![Método UX](img/eye-tracking.png)
