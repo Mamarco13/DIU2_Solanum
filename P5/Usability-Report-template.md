@@ -91,7 +91,7 @@ Heatmaps obtenidos:
 
 ![Heatmap Reserva](../P4/heatmap_3.jpg)
 
-![Heatmap Foodtruck](../P4/heatmap_3.jpg)
+![Heatmap Foodtruck](../P4/heatmap_4.jpg)
 
 ---
 
