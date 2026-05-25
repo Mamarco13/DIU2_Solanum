@@ -4,39 +4,47 @@
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF017nhV-TFmNER2OM8UbXtdN6xwAKBYrv0i6onNfKu6Yn0BV0RK6aiOroeXl73LSY-B0&usqp=CAU" alt="usability Download png" style="height:150px" />
 
-### Evaluación de usabilidad del proyecto  [NOMBRE PROYECTO]
+### Evaluación de usabilidad del proyecto Remake Champions Burger
 
-[Fecha]
+25/05/2026
 
-[img Proyecto]
+<img src="../P4/logo_clenchaos.png" style="width:300px; height:auto;">
 
-[Enlace a GITHUB del proyecto]
+[Remake Champions Burger](https://github.com/DIU3-Clenchaos/UX_CaseStudy)
 
 ### Realizado por:  
 
-[Informe realizado por Equipo (quien hace el report) explicar brevemente vuestra experiencia ]
-
-
- 
-
+Equipo Solanum. Proyecto "Gravity Brew". Compuesto por:
+* Manuel Martínez Cobos
+* Ana Cascone Hernández
 
 ## 1 RESUMEN EJECUTIVO  (Executive Summary)
 
-[ Es la sección más importante para los interesados (stakeholders). Debe ocupar una sola página] .
+- **Objetivo:** Evaluamos el rediseño de la web oficial del evento gastronómico The Champions Burger. El objetivo principal es dar solución a las carencias detectadas en la plataforma actual para implementar mejoras clave, como un mapa interactivo, tiempos restantes de cola e información detallada de las hamburguesas.
+ 
+- **Metodología:** La evaluación se apoya en un enfoque mixto que incluye A/B Testing para comparar el rendimiento y usabilidad del diseño original frente a otra propuesta (Caso A vs Caso B); el cuestionario SUS (System Usability Scale) para cuantificar la satisfacción del usuario; y pruebas de Eye Tracking (mediante GazeRecorder) para analizar el comportamiento visual y los mapas de calor en la interfaz.
+  
+- **Principales Hallazgos:**
+* Existe una gran dificultad por parte de los usuarios para encontrar información relevante de forma rápida.
 
-- **Objetivo:** ¿Qué evaluamos y por qué?
-- **Metodología:** Breve mención del A/B Testing, SUS y Eye Tracking.
-- **Principales Hallazgos:** Los 3 puntos más críticos encontrados.
-- **Resultado Global:** Puntuación SUS media y si el diseño es "Aceptable" o no.
+* Hay una falta evidente de herramientas de filtrado eficientes para el contenido.
+
+* La navegación actual genera una experiencia de usuario (UX) poco fluida y frustrante.
+  
+- **Resultado Global:** Su diseño es aceptable, aunque poco adaptado a gente no muy inmersa en el mundillo, es una clara mejora respecto al actual e implementa interesantes mejoras que seguro que contentarán a su público de nicho.
 
 
 ## 2. Metodología y Reclutamiento
 
-[Describe el "cómo"]
-
-- **Perfil de los participantes:** Resumen de la tabla demográfica (edad media, nivel digital).
-- **Escenario de la prueba:** Descripción de las tareas que realizaron los usuarios.
-- **Herramientas:** Mención de **GazeMapping**, Tally y herramientas de accesibilidad.
+- **Perfil de los participantes:** Hemos contado con participantes de perfiles muy variados para este experimento, pertenecientes a distintas franjas de edad, adaptación tecnológica y gremios.
+  
+- **Escenario de la prueba:** Los usuarios llevaron a cabo 3 tareas principales.
+  
+* En primer lugar, entraron a la página sin saber su temática y trataron de acertarla con la información de la página principal; tuvieron éxito en la tarea.
+* Luego, trataron de realizar una reserva de una mesa. El usuario menos adaptado a la tecnología fue incapaz, ya quie la navegación perdía el header en algunas páginas y resultaba confusa.
+* Por último trataron de encontrar una opción en el menú apta para consumir teniendo en cuenta su condición alérgena. Todos la encontraron de manera manual, pero coincidieron en que un filtro habría facilitado el proceso.
+  
+- **Herramientas:** Se usó (como ya se ha mencionado con anterioridad) GazeMapping para crear los Heat Maps correspondientes, así como navegador web y teléfono móvil para realizar las pruebas de los usuarios
 
 ## 3. Resultados del Cuestionario SUS (Datos Cuantitativos)
 
