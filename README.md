@@ -628,13 +628,13 @@ En general, los heatmaps validan que el diseño visual resulta atractivo y llama
 
 #### Heatmaps obtenidos
 
-![Heatmap Inicio](P4/heatmap_inicio.png)
+![Heatmap Inicio](P4/heatmap_1.jpg)
 
-![Heatmap Carta](P4/heatmap_carta.png)
+![Heatmap Carta](P4/heatmap_2.jpg)
 
-![Heatmap Reserva](P4/heatmap_reserva.png)
+![Heatmap Reserva](P4/heatmap_3.jpg)
 
-![Heatmap Foodtruck](P4/heatmap_foodtruck.png)
+![Heatmap Foodtruck](P4/heatmap_3.jpg)
 
 ### 4.f Usability Report de B
 ![Método UX](img/usability-report.png) 
