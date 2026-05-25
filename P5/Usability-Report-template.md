@@ -63,11 +63,62 @@ Equipo Solanum. Proyecto "Gravity Brew". Compuesto por:
 
 ## 4. Análisis de Eye Tracking (Datos Biométricos)
 
-[Presenta la evidencia visual del comportamiento del usuario]
+### Evidencia visual del comportamiento del usuario
 
-- **Heatmaps (Mapas de calor):** Incluye las capturas de GazeMapping. Comenta si los usuarios miraron los **POI** (Puntos de Interés) definidos.
-- **Zonas de Silencio:** Identifica elementos importantes que fueron totalmente ignorados.
-- **Hallazgo clave:** Ejemplo: "El 80% de los usuarios ignoró el botón de CTA debido a su ubicación en el margen inferior".
+#### Heatmaps (Mapas de calor)
+
+Los heatmaps obtenidos mediante GazeMapping muestran claramente las zonas de mayor atención visual de los usuarios durante las pruebas.
+
+En general, los usuarios centraron principalmente su atención en:
+- imágenes de productos,
+- botones de acción principales,
+- mapas interactivos,
+- y elementos con alto contraste visual.
+
+Los POI definidos previamente fueron observados en la mayoría de los casos, especialmente:
+- botones de reserva,
+- imágenes destacadas de hamburguesas,
+- filtros principales,
+- y zonas de selección interactiva.
+
+Esto indica que la jerarquía visual funciona correctamente en varias pantallas importantes de la aplicación.
+
+Heatmaps obtenidos:
+
+![Heatmap Inicio](../P4/heatmap_1.jpg)
+
+![Heatmap Carta](../P4/heatmap_2.jpg)
+
+![Heatmap Reserva](../P4/heatmap_3.jpg)
+
+![Heatmap Foodtruck](../P4/heatmap_3.jpg)
+
+---
+
+#### Zonas de silencio
+
+A pesar de ello, también se detectaron varias zonas importantes prácticamente ignoradas por los usuarios.
+
+Entre las principales zonas de silencio destacan:
+- apartados legales y enlaces secundarios del footer,
+- algunos filtros avanzados,
+- información descriptiva extensa,
+- y determinadas opciones de navegación secundaria.
+
+En varias pantallas, los usuarios priorizaron claramente los elementos visuales principales frente a textos informativos o elementos menos destacados.
+
+---
+
+#### Hallazgo clave
+
+Uno de los hallazgos más relevantes observados durante las pruebas es que gran parte de los usuarios focalizó su atención en las imágenes y elementos promocionales, ignorando parcialmente algunos componentes funcionales importantes.
+
+Por ejemplo:
+- varios usuarios tardaron en identificar correctamente determinadas opciones de filtrado y reserva,
+- y algunos elementos importantes quedaron ocultos visualmente frente a imágenes de gran tamaño y zonas con mucho contraste.
+
+Además, se observó que las áreas inferiores de la interfaz recibieron significativamente menos atención visual, especialmente cuando no contenían elementos destacados gráficamente.
+
 
 ## 5. Auditoría de Accesibilidad
 
