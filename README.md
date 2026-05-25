@@ -13,7 +13,7 @@ Nombre del Proyecto: Gravity Brew
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+Con Gravity Brew, proponemos una opción de snack distinta y versátil, apta para los que van con más prisas y los que quieren descansar y disfrutar de una velada "espacialmente" buena
 
 Logotipo: 
 
@@ -610,19 +610,14 @@ Se puede acceder al código en la carpeta P5/dev/gravity-brew
 > [!NOTE]
 > Las imágenes de logo, diseño, comidas y eventos han sido creadas mediante el uso de Inteligencia Artificial
 
-### 5.b Documentación con Storybook
-![Método UX](img/usabilityReview.png)
-----
-
->>> Breve descripción de esta tarea. Las evidencias de este paso quedan subidas a P5/
 
 
 <br>
 
 ## Conclusiones finales & Valoración de las prácticas
 
+Durante este proceso hemos aprendido puntos importantes que desconocíamos de la creación de una interfaz de usuario. Hemos descubierto herramientas de mucha utilidad, así como descubierto que se toman en cuenta y se estudian muchísimos factores que, desde el completo desconocimiento, nos parecían irrelevantes. Como mejora propuesta, nos habría gustado que se pusiera algo más de empeño en Figma, pues la herramienta es muy grande, y aunque sabemos que es difícil cubrirla al completo, hay algunas funciones que descubrimos de motus propio que, en caso de haberse explicado en clase, nos habrían ahorrado mucho tiempo. En conclusión, durante este proyecto hemos aprendido la realidad, la exigencia y los malos hábitos (incluso en proyectos conocidos y profesionales) que hay detrás del mundo de las interfaces de usuario. Es por esto que ahora opinamos que Diseño de Interfaces de Usuario es una asignatura muy necesaria en la carrera de Ingeniería Informática
 
->>> Opinión FINAL del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos. ¿Qué se puede mejorar? Recuerda que este tipo de texto se debe eliminar del template que se os proporciona 
 
 
 
