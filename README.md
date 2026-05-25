@@ -585,12 +585,10 @@ El Caso B, aunque también está muy bien diseñado, cuenta con algunas fallas i
 ![Método UX](img/usability-report.png) 
 -----
 
->>> Añadir report de usabilidad para práctica B (la de los compañeros) aportando resultados y valoración de cada debilidad de usabilidad. 
->>> Enlazar aqui con el archivo subido a P4/ que indica qué equipo evalua a qué otro equipo.
+Se ha realizado un informe en el Usability Report mediante el cual se han redactado todas las pruebas y analizado los resultados obtenidos en las mismas, extrayendo conclusiones y proponiendo mejoras a partir de ellos.
+[Ver Usability Report](P5/Usability-Report-template.md)
 
->>> Complementad el Case Study en su Paso 4 con una Valoración personal del equipo sobre esta tarea
-
-
+Cuando el equipo de Los Clenchaos complete su paso a producción y su Case Study, se procederá a realizar el comentario en su repositorio con la propuesta de mejoras.
 
 <br>
 
