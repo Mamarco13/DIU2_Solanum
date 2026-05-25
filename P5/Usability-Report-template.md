@@ -48,13 +48,18 @@ Equipo Solanum. Proyecto "Gravity Brew". Compuesto por:
 
 ## 3. Resultados del Cuestionario SUS (Datos Cuantitativos)
 
-[Aquí se muestran datos del análisis multivariable de SUS] 
+- **Comparativa A vs. B:**
+  
+  <img width="749" height="434" alt="image" src="https://github.com/user-attachments/assets/a6a924fa-c266-49f3-9ed8-b87018d946a9" />
+  
+> [!NOTE]
+> Es importante mencionar que se evaluan los 10 puntos del Cuestionario SUS hechos por dos personas:
+>
+> Persona 1 -> [1-10]. Persona 2-> [11-20]
+>
+> Mencionar que en los apartados 2, 4, 6, 8 y 10 (Y por tanto en el 12, 14, 16, 18 y 20) se busca obtener un resultado cuanto más bajo mejor
 
-- **Comparativa A vs. B:** Un gráfico de barras comparando la puntuación final de ambos diseños.
-- **Desglose por ítems:** Identifica qué preguntas del SUS tuvieron peor puntuación (por ejemplo, si la pregunta 2 sobre "complejidad" fue muy alta en el Diseño B).
-
-Valoración numérica del SUS - 
-
+- **Desglose por ítems:** El Caso B, que es el objetivo de análisis de este documento, recibe una puntuación especialmente mala de la Persona 2, que es la más mayor y menos adaptada a la tecnología de toda nuestra muestra, y que se ve superada por su interfaz poco accesible. Recibe puntuaciones malas por inconsistencia y complejidad en las rutas de información.
 
 ## 4. Análisis de Eye Tracking (Datos Biométricos)
 
@@ -66,20 +71,18 @@ Valoración numérica del SUS -
 
 ## 5. Auditoría de Accesibilidad
 
-Sintetiza el cumplimiento técnico y normativo.
+Al estar únicamente en formato foto ha sido imposible realizar este apartado mediante herramientas técnicas.
 
-- **Puntuación Automática:** (Lighthouse/WAVE).
-- **Principales barreras:** Lista los errores críticos (contraste, falta de etiquetas, etc.) y cómo afectan a los usuarios con discapacidad.
+Es posible que resulte problemático por los tamaños de letra pequeños del header, las imágenes con texto incrustado (intraducibles) y la complejidad de las rutas y la información. Pero no se puede evaluar con herramientas hasta el paso a Figma/Web.
 
 ## 6. Conclusiones y Recomendaciones (Actionable Insights)
 
-No te limites a decir qué está mal; di cómo arreglarlo. Clasifica las recomendaciones por prioridad:
 
-| **Prioridad**      | **Hallazgo**                                                 | **Recomendación de Mejora**                                  |
-| ------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **Alta (Crítica)** | Ej. El SUS indica alta complejidad y el Eye Tracking muestra confusión en el menú. | Simplificar la arquitectura de información y aumentar el tamaño de las fuentes. |
-| **Media**          | Ej. Los usuarios no ven el botón de registro rápidamente.        | Cambiar el color del CTA a uno de mayor contraste según WCAG. |
-| **Baja**           | Ej. El logo no redirige a la home.                               | Añadir el enlace estándar al logotipo en la cabecera.        |
+| **Prioridad**      | **Hallazgo**                                                 | **Recomendación de Mejora**                                   |
+| ------------------ | ------------------------------------------------------------ | ------------------------------------------------------------- |
+| **Alta (Crítica)** | El header desaparece                                         | Revisar y corregir a la hora de pasar a código en producción  |
+| **Media**          | Alta complejidad de las rutas                                | Facilitar más accesos en el header                            |
+| **Baja**           | Tamaño de letra muy pequeño                                  | Aumentar el tamaño de la letra a ña hora de pasar a producción|
 
 
 
