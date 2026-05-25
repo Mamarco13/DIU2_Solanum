@@ -416,25 +416,58 @@ Como conclusiones principales, el proyecto demuestra cómo una identidad visual 
 ![Método UX](img/usability-testing.png)
 -----
 
->>> Breve descripción del caso asignado (llamado Caso-B) con enlace al repositorio Github
->>> Tabla y asignación de personas ficticias (o reales) a las pruebas. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Mínimo 4 usuarios: asigne 2 al Caso A y 2 al caso B.
+Debemos evaluar al grupo DIU3-Clenchaos, cuyo proyecto es Remake Champions Burger. Siendo ellos el proyecto correspondiente al caso B y Gravity Brew el correspondiente al caso A
 
+
+Enlace al GitHub del caso B: [Remake Champions Burger](https://github.com/DIU3-Clenchaos/UX_CaseStudy)
+
+
+A continuación describimos a los usuarios que realizarán la evaluación y el caso que evaluarán cada uno:
 
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| AM01          | H / 23   | Estudiante  | Alta        | Introvertido | Web        | A  
+| PA01          | H / 49   | Profesor    | Media       | Racional     | Móvil      | A 
+| AM02          | M / 22   | Estudiante  | Alta        | Emocional    | Móvil      | B 
+| MA01          | H / 55   | Profesora   | Baja        | Racional     | Web        | B 
 
 
 ### 4.b Diseño de las pruebas 
 ![Método UX](img/usability-testing.png) 
 -----
 
->>> Planifique qué pruebas se van a desarrollar. ¿En qué consisten? ¿Se hará uso del checklist de la P1?
+Para evaluar la usabilidad y la experiencia de los clientes, hemos diseñado un conjunto de pruebas centradas en validar si la interfaz propuesta resuelve las necesidades de nuestros usuarios y si la navegación es intuitiva.
 
+#### 4.1 Planificación
+
+Se llevarán a cabo pruebas de usabilidad moderadas empleando la técnica de Think Aloud (Pensar en voz alta). Esto nos permitirá no solo ver si el usuario logra completar las tareas, sino entender su proceso mental, frustraciones y expectativas durante la interacción con el prototipo.
+
+Metodología:
+
+* Usuarios: Hemos seleccionado 4 usuarios que encajen con los arquetipos/personas definidos en la Práctica 1. Tienen diferentes niveles de experiencia con la tecnología, pertenecen a dos grupos de edad distintos y tienen variedad de personalidades.
+
+* Entorno: Las pruebas se realizarán en persona, utilizando el prototipo interactivo desarrollado en Figma.
+
+* Métricas a recoger: Tasa de éxito de la tarea, tiempo de realización, número de errores cometidos y nivel de satisfacción subjetiva (mediante un breve cuestionario SUS o cuestionario post-tarea).
+
+#### 4.2 Tareas a desarrollar
+
+Para la prueba, hemos diseñado 3 tareas clave que cubren las funcionalidades principales de las aplicaciones. Se le pedirá a los usuarios que realicen lo siguiente sin recibir ayuda directa del moderador:
+
+Tarea 1: Onboarding: “Imagina que es la primera vez que abres la app. ¿Entiendes donde estas? ¿Eres capaz de encontrar la información necesaria para entenderlo?” (Objetivo: Evaluar la fricción de entrada).
+
+Tarea 2: Reservar una mesa. “Necesitas hacer una reserva. Usa la aplicación para llevarlo a cabo.” (Objetivo: Validar el flujo de las reservas).
+
+Tarea 3: Gestión de impedimentos. “Eres alérgico. ¿Sabes qué productos puedes consumir en este negocio?” (Objetivo: Evaluar la arquitectura de la información y la navegación).
+
+Se hará uso del checklist (Revisión de Usabilidad) de la P1. Durante la Práctica 1 utilizamos el checklist para evaluar una aplicación de la competencia y detectar vulnerabilidades o problemas graves. En esta fase de pruebas, utilizaremos ese mismo checklist (o una versión adaptada del mismo) aplicándolo sobre los negocios A y B.
+
+El objetivo de hacer esto es doble:
+
+* Comparativa (Benchmarking): Comprobar si nuestra solución obtiene una mejor puntuación de usabilidad que la aplicación analizada en la P1.
+
+* Validación Heurística: Asegurarnos de que no hemos cometido los mismos errores de diseño (falta de feedback, mala prevención de errores, inconsistencia de estándares) que criticamos en las primeras fases del proyecto.
 
 
 ### 4.c Cuestionario SUS
